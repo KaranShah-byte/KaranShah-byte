@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**KaranShah-byte/KaranShah-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Karan, a CS student at IILM UNIVERSITY, based in India.
 
-Here are some ideas to get you started:
+I mostly work on frontend, full-stack, backend stuff. My main tech stack is React, TypeScript, Tailwind, Next.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also use other tools, e.g. Figma for design, Framer Motion for animations.
+
+This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on it.
+
+## Tools & programming languages
+- React, TypeScript, Tailwind
+- C, C++, python and currently learning java.
+- 
+
+## A Bit About Me
+- Like traveling, learning cosmology and playing chess.
+- Bingewatcher and music enthusiast.
+- paint a little bit.
+
+I like building things that are simple, useful, and easy to understand
+
+
+
+
+
